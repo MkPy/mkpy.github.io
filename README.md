@@ -1,8 +1,6 @@
 # MkPy:  Maunakea Python Workshop 2017
 
-The Maunakea Python Workshop (MkPy) is tentatively scheduled for November 8-9, 2017 at the Subaru base facility in Hilo.  We will also be holding a Python for beginners one day tutorial tentatively scheduled for October 13 (location TBD).
-
-The beginners workshop will be a one day tutorial primarily intended for scientists who want to become proficient in Python programming.  Topics will likely include a basic intro to Python code, collaboration using git and GitHub, how to make plots in python using the matplotlib package, a basic introduction to the astronomy specific tools in astropy, and other topics to be determined based on feedback.
+The Maunakea Python Workshop (MkPy) is scheduled for November 8-9, 2017 at the Subaru base facility in Hilo.  We will also be holding two Python for beginners one day tutorials scheduled for October 6 and October 13 at the Gemini Base Facility in Hilo.
 
 The main MkPy workshop has the goal of bringing together programmers and scientists from all of the Maunakea Observatories.  The general structure will be two days, each with a half day of talks and a half day of "unconference sessions".
 
@@ -10,4 +8,6 @@ We hope to have one or two keynote speakers, possibly from outside the observato
 
 The afternoon sessions may include additional tutorials, lightning talks, discussion panels, and hack sessions.
 
-Please stay tuned, more information and a pre-registration form will be availble soon.
+The beginners workshop will be a one day tutorial primarily intended for scientists who want to become proficient in Python programming.  Topics will likely include a basic intro to Python code, collaboration using git and GitHub, how to make plots in python using the matplotlib package, a basic introduction to the astronomy specific tools in astropy, and other topics to be determined based on feedback.
+
+If you would like to register for the MkPy meeting, please fill out the [MkPy Registration Form](https://goo.gl/forms/Yg29FqYaoSzdB2eL2).
