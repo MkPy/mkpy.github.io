@@ -10,7 +10,7 @@ Nov 8-9 at the Subaru Base Facility Conference Suite (650 N. Aohoku Pl, Hilo, HI
 
 | Time | Session |
 |------|---------|
-| 08:30 | Coffee and pastries |
+| 08:30 | Coffee |
 | 08:50 | SOC welcome and instructions for attendees, speakers |
 | 09:10 | Keynote: Astropy and the Python in Astronomy Ecosystem (Erik Tollerud, Space Telescope Science Institute, member astropy project coordinators) |
 | 10:00 | Invited Talk 1: “Let them evolve!”: Automatic scheduling using Python and Biology (Michael Pohlen, Gemini Observatory) |
@@ -32,7 +32,7 @@ Nov 8-9 at the Subaru Base Facility Conference Suite (650 N. Aohoku Pl, Hilo, HI
 
 | Time | Session |
 |------|---------|
-| 08:30 | Coffee and pastries |
+| 08:30 | Coffee |
 | 09:00 | SOC call to order |
 | 09:10 | Keynote: Redesigning LSST's Processing Middleware (Jim Bosch, Princeton University, Data Release Production Scientist with LSST) |
 | 10:00 | Invited Talk 5: Digital plumbing with Python/C (Kyle Lanclos, W. M. Keck Observatory) |
