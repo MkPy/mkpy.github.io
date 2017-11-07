@@ -1,18 +1,12 @@
 # MkPy:  Maunakea Python Workshop 2017
 
-The Maunakea Python Workshop (MkPy) is scheduled for November 8-9, 2017 at the Subaru base facility in Hilo. 
-
-The main MkPy workshop has the goal of bringing together programmers and scientists from all of the Maunakea Observatories.  The general structure will be two days, each with a half day of talks and a half day of "unconference sessions".
-
-We will have keynote speakers and a series of talks given by attendees.  The goal is to foster collaboration between scientists and programmers and across organizations.
-
-The afternoon sessions may include additional tutorials, lightning talks, discussion panels, and hack sessions.
+The MkPy workshop has the goal of bringing together programmers and scientists from all of the Maunakea Observatories.  The general structure will be two days, each with a half day of talks and a half day of "unconference sessions".  We will have keynote speakers and a series of talks given by attendees.  The goal is to foster collaboration between scientists and programmers and across organizations.  The afternoon unconference sessions may include additional tutorials, lightning talks, discussion panels, and hack sessions.
 
 # MkPy Agenda
 
-## Nov 8-9, Subaru Conference Suite (650 N. Aohoku Pl, Hilo, HI)
+Nov 8-9 at the Subaru Base Facility Conference Suite (650 N. Aohoku Pl, Hilo, HI)
 
-### Wednesday, Nov. 8
+### Agenda: Wednesday, Nov. 8
 
 | Time | Session |
 |------|---------|
@@ -34,7 +28,7 @@ The afternoon sessions may include additional tutorials, lightning talks, discus
 | 17:30 | Unconference Wrap up |
 | 18:00 | BBQ (and Potluck) |
 
-### Thursday, Nov. 9
+### Agenda: Thursday, Nov. 9
 
 | Time | Session |
 |------|---------|
