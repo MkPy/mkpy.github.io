@@ -43,12 +43,11 @@ Nov 8-9 at the Subaru Base Facility Conference Suite (650 N. Aohoku Pl, Hilo, HI
 | 11:40 | Lightning Talks |
 | 12:00 | Lunch (provided) |
 | 13:00 | Unconference Sessions 5 |
-| 14:00 | Unconference Sessions 6 |
-| 15:00 | Coffee break |
-| 15:30 | Unconference Sessions 7 |
-| 16:30 | Unconference Sessions 8 |
-| 17:30 | Unconference Wrap up |
-| 18:00 | Workshop adjourned |
+| 13:45 | Unconference Sessions 6 |
+| 14:30 | Coffee break |
+| 15:00 | Unconference Sessions 7 |
+| 15:45 | Unconference Sessions 8 |
+| 16:30 | Workshop adjourned |
 
 ## Talk Abstracts
 
