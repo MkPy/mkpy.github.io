@@ -53,7 +53,7 @@ Nov 8-9 at the Subaru Base Facility Conference Suite (650 N. Aohoku Pl, Hilo, HI
 
 * [Kathleen Labrie: AstroData](Kathleen_LabrieLightningMKPython.pdf)
 * [Josh Walawender: Fun With DSLR Cameras](joshw_Lightning_Talk_DSLRs.pdf)
-
+* [Erik Tollerud: Easy(ish) notebook-based inner-loop optimization with C](Tollerud_CquickInnerLoopingWithNumpy.ipynb)
 
 ## Talk Abstracts
 
