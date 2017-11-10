@@ -12,7 +12,7 @@ Nov 8-9 at the Subaru Base Facility Conference Suite (650 N. Aohoku Pl, Hilo, HI
 |------|---------|
 | 08:30 | Coffee |
 | 08:50 | SOC welcome and instructions for attendees, speakers |
-| 09:10 | Keynote: Astropy and the Python in Astronomy Ecosystem (Erik Tollerud, Space Telescope Science Institute, member astropy project coordinators) |
+| 09:10 | Keynote: [Astropy and the Python in Astronomy Ecosystem](Tollerud_MKPy17.pdf) (Erik Tollerud, Space Telescope Science Institute, member astropy project coordinators) |
 | 10:00 | Invited Talk 1: [“Let them evolve!”: Automatic scheduling using Python and Biology](mpohlen_PythonScheduling.pdf) (Michael Pohlen, Gemini Observatory) |
 | 10:20 | Coffee break |
 | 10:40 | Invited Talk 2: [Making a simple instrument utility using ginga and astropy](joshw_CSU_initializer.pdf) (Josh Walawender, Keck Observatory) |
@@ -53,7 +53,7 @@ Nov 8-9 at the Subaru Base Facility Conference Suite (650 N. Aohoku Pl, Hilo, HI
 
 * [Kathleen Labrie: AstroData](Kathleen_LabrieLightningMKPython.pdf)
 * [Josh Walawender: Fun With DSLR Cameras](joshw_Lightning_Talk_DSLRs.pdf)
-
+* [Erik Tollerud: Easy(ish) notebook-based inner-loop optimization with C](Tollerud_CquickInnerLoopingWithNumpy.ipynb)
 
 ## Talk Abstracts
 
