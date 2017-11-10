@@ -13,9 +13,9 @@ Nov 8-9 at the Subaru Base Facility Conference Suite (650 N. Aohoku Pl, Hilo, HI
 | 08:30 | Coffee |
 | 08:50 | SOC welcome and instructions for attendees, speakers |
 | 09:10 | Keynote: Astropy and the Python in Astronomy Ecosystem (Erik Tollerud, Space Telescope Science Institute, member astropy project coordinators) |
-| 10:00 | Invited Talk 1: (“Let them evolve!”: Automatic scheduling using Python and Biology)[mpohlen_PythonScheduling.pdf] (Michael Pohlen, Gemini Observatory) |
+| 10:00 | Invited Talk 1: [“Let them evolve!”: Automatic scheduling using Python and Biology](mpohlen_PythonScheduling.pdf) (Michael Pohlen, Gemini Observatory) |
 | 10:20 | Coffee break |
-| 10:40 | Invited Talk 2: (Making a simple instrument utility using ginga and astropy)[joshw_CSU_initializer.pdf] (Josh Walawender, Keck Observatory) |
+| 10:40 | Invited Talk 2: [Making a simple instrument utility using ginga and astropy](joshw_CSU_initializer.pdf) (Josh Walawender, Keck Observatory) |
 | 11:00 | Invited Talk 3: Using Flask to create simple, dynamic web pages (Sarah Graves, EAO Observatory) |
 | 11:20 | Invited Talk 4: Remote Debugging with Advanced PyCharm Capabilities (Matt Wilson, CFHT Observatory) |
 | 11:40 | Lightning Talks |
@@ -35,10 +35,10 @@ Nov 8-9 at the Subaru Base Facility Conference Suite (650 N. Aohoku Pl, Hilo, HI
 | 08:30 | Coffee |
 | 09:00 | SOC call to order |
 | 09:10 | Keynote: Redesigning LSST's Processing Middleware (Jim Bosch, Princeton University, Data Release Production Scientist with LSST) |
-| 10:00 | Invited Talk 5: (Digital plumbing with Python/C)[KLanclos_DigitalPlumbingWithPhython.pdf] (Kyle Lanclos, W. M. Keck Observatory) |
+| 10:00 | Invited Talk 5: [Digital plumbing with Python/C](KLanclos_DigitalPlumbingWithPhython.pdf) (Kyle Lanclos, W. M. Keck Observatory) |
 | 10:20 | Coffee break |
-| 10:40 | Invited Talk 6: (Parallel Processing in Python)[SKwok_ParallelProcessingInPython.pdf] (Shui Kwok, W. M. Keck Observatory) |
-| 11:00 | Invited Talk 7: (Wrapping C Libraries with Cython)[berthold_cython.pdf] (Ryan Berthold, EAO Observatory) |
+| 10:40 | Invited Talk 6: [Parallel Processing in Python](SKwok_ParallelProcessingInPython.pdf) (Shui Kwok, W. M. Keck Observatory) |
+| 11:00 | Invited Talk 7: [Wrapping C Libraries with Cython](berthold_cython.pdf) (Ryan Berthold, EAO Observatory) |
 | 11:20 | Invited Talk 8:  Building Applications for Jupyter Notebooks (Eric Jeschke, National Astronomical Observatory of Japan) |
 | 11:40 | Lightning Talks |
 | 12:00 | Lunch (provided) |
@@ -51,8 +51,8 @@ Nov 8-9 at the Subaru Base Facility Conference Suite (650 N. Aohoku Pl, Hilo, HI
 
 ### Lightning talks
 
-* (Kathleen Labrie: AstroData)[Kathleen_LabrieLightningMKPython.pdf]
-* (Josh Walawender: Fun With DSLR Cameras)[joshw Lightning Talk DSLRs.pdf]
+* [Kathleen Labrie: AstroData](Kathleen_LabrieLightningMKPython.pdf)
+* [Josh Walawender: Fun With DSLR Cameras](joshw Lightning Talk DSLRs.pdf)
 
 
 ## Talk Abstracts
