@@ -39,7 +39,7 @@ Nov 8-9 at the Subaru Base Facility Conference Suite (650 N. Aohoku Pl, Hilo, HI
 | 10:20 | Coffee break |
 | 10:40 | Invited Talk 6: [Parallel Processing in Python](SKwok_ParallelProcessingInPython.pdf) (Shui Kwok, W. M. Keck Observatory) |
 | 11:00 | Invited Talk 7: [Wrapping C Libraries with Cython](berthold_cython.pdf) (Ryan Berthold, EAO Observatory) |
-| 11:20 | Invited Talk 8:  Building Applications for Jupyter Notebooks (Eric Jeschke, National Astronomical Observatory of Japan) |
+| 11:20 | Invited Talk 8:  [Building Applications for Jupyter Notebooks](https://gist.github.com/ejeschke/f6f6857b709a9f36d89ff3a5dbd31624) (Eric Jeschke, National Astronomical Observatory of Japan) |
 | 11:40 | Lightning Talks |
 | 12:00 | Lunch (provided) |
 | 13:00 | Unconference Sessions 5 |
