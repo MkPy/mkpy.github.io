@@ -38,7 +38,7 @@ Nov 8-9 at the Subaru Base Facility Conference Suite (650 N. Aohoku Pl, Hilo, HI
 |------|---------|
 | 08:30 | Coffee |
 | 09:00 | SOC call to order |
-| 09:10 | Keynote: [Redesigning LSST's Processing Middleware](Bosch_LSST_Middleware.pdf) (Jim Bosch, Princeton University, Data Release Production Scientist with LSST) |
+| 09:10 | Keynote: [Redesigning LSST's Processing Middleware](bosch_LSST_Middleware.pdf) (Jim Bosch, Princeton University, Data Release Production Scientist with LSST) |
 | 10:00 | Invited Talk 5: [Digital plumbing with Python/C](KLanclos_DigitalPlumbingWithPhython.pdf) (Kyle Lanclos, W. M. Keck Observatory) |
 | 10:20 | Coffee break |
 | 10:40 | Invited Talk 6: [Parallel Processing in Python](SKwok_ParallelProcessingInPython.pdf) (Shui Kwok, W. M. Keck Observatory) |
