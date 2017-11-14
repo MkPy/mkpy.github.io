@@ -28,17 +28,13 @@ Nov 8-9 at the Subaru Base Facility Conference Suite (650 N. Aohoku Pl, Hilo, HI
 | 17:30 | Unconference Wrap up |
 | 18:00 | BBQ (and Potluck) |
 
-### Lightning talks
-* [Tim Jenness: Please Stop Using Python 2](Jenness-20171108-MKPY-stop-py2-now.pdf)
-
-
 ### Agenda: Thursday, Nov. 9
 
 | Time | Session |
 |------|---------|
 | 08:30 | Coffee |
 | 09:00 | SOC call to order |
-| 09:10 | Keynote: Redesigning LSST's Processing Middleware (Jim Bosch, Princeton University, Data Release Production Scientist with LSST) |
+| 09:10 | Keynote: [Redesigning LSST's Processing Middleware](bosch_LSST_Middleware.pdf) (Jim Bosch, Princeton University, Data Release Production Scientist with LSST) |
 | 10:00 | Invited Talk 5: [Digital plumbing with Python/C](KLanclos_DigitalPlumbingWithPhython.pdf) (Kyle Lanclos, W. M. Keck Observatory) |
 | 10:20 | Coffee break |
 | 10:40 | Invited Talk 6: [Parallel Processing in Python](SKwok_ParallelProcessingInPython.pdf) (Shui Kwok, W. M. Keck Observatory) |
@@ -58,6 +54,7 @@ Nov 8-9 at the Subaru Base Facility Conference Suite (650 N. Aohoku Pl, Hilo, HI
 * [Kathleen Labrie: AstroData](Kathleen_LabrieLightningMKPython.pdf)
 * [Josh Walawender: Fun With DSLR Cameras](joshw_Lightning_Talk_DSLRs.pdf)
 * [Erik Tollerud: Easy(ish) notebook-based inner-loop optimization with C](Tollerud_CquickInnerLoopingWithNumpy.ipynb)
+* [Tim Jenness: Please Stop Using Python 2](Jenness-20171108-MKPY-stop-py2-now.pdf)
 
 ## Talk Abstracts
 
