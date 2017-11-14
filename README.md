@@ -28,6 +28,10 @@ Nov 8-9 at the Subaru Base Facility Conference Suite (650 N. Aohoku Pl, Hilo, HI
 | 17:30 | Unconference Wrap up |
 | 18:00 | BBQ (and Potluck) |
 
+### Lightning talks
+* [Tim Jenness: Please Stop Using Python 2](Jenness-20171108-MKPY-stop-py2-now.pdf)
+
+
 ### Agenda: Thursday, Nov. 9
 
 | Time | Session |
