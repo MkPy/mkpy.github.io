@@ -16,7 +16,7 @@ Nov 8-9 at the Subaru Base Facility Conference Suite (650 N. Aohoku Pl, Hilo, HI
 | 10:00 | Invited Talk 1: [“Let them evolve!”: Automatic scheduling using Python and Biology](mpohlen_PythonScheduling.pdf) (Michael Pohlen, Gemini Observatory) |
 | 10:20 | Coffee break |
 | 10:40 | Invited Talk 2: [Making a simple instrument utility using ginga and astropy](joshw_CSU_initializer.pdf) (Josh Walawender, Keck Observatory) |
-| 11:00 | Invited Talk 3: Using Flask to create simple, dynamic web pages (Sarah Graves, EAO Observatory) |
+| 11:00 | Invited Talk 3: [Using Flask to create simple, dynamic web pages](sgraves-mkpy2017-flask.pdf) (Sarah Graves, EAO Observatory) |
 | 11:20 | Invited Talk 4: Remote Debugging with Advanced PyCharm Capabilities (Matt Wilson, CFHT Observatory) |
 | 11:40 | Lightning Talks |
 | 12:00 | Lunch (provided) |
@@ -27,6 +27,10 @@ Nov 8-9 at the Subaru Base Facility Conference Suite (650 N. Aohoku Pl, Hilo, HI
 | 16:30 | Unconference Sessions 4 |
 | 17:30 | Unconference Wrap up |
 | 18:00 | BBQ (and Potluck) |
+
+### Lightning talks
+* [Tim Jenness: Please Stop Using Python 2](Jenness-20171108-MKPY-stop-py2-now.pdf)
+
 
 ### Agenda: Thursday, Nov. 9
 
