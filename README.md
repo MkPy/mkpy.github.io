@@ -17,7 +17,7 @@ Nov 8-9 at the Subaru Base Facility Conference Suite (650 N. Aohoku Pl, Hilo, HI
 | 10:20 | Coffee break |
 | 10:40 | Invited Talk 2: [Making a simple instrument utility using ginga and astropy](joshw_CSU_initializer.pdf) (Josh Walawender, Keck Observatory) |
 | 11:00 | Invited Talk 3: [Using Flask to create simple, dynamic web pages](sgraves-mkpy2017-flask.pdf) (Sarah Graves, EAO Observatory) |
-| 11:20 | Invited Talk 4: Remote Debugging with Advanced PyCharm Capabilities (Matt Wilson, CFHT Observatory) |
+| 11:20 | Invited Talk 4: [Remote Debugging with Advanced PyCharm Capabilities](mwilson-remote-debugging.pdf) (Matt Wilson, CFHT Observatory) |
 | 11:40 | Lightning Talks |
 | 12:00 | Lunch (provided) |
 | 13:00 | Unconference Sessions 1 |
