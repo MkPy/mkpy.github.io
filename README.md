@@ -37,7 +37,7 @@ Nov 8-9 at the Subaru Base Facility Conference Suite (650 N. Aohoku Pl, Hilo, HI
 | 09:10 | Keynote: [Redesigning LSST's Processing Middleware](bosch_LSST_Middleware.pdf) (Jim Bosch, Princeton University, Data Release Production Scientist with LSST) |
 | 10:00 | Invited Talk 5: [Digital plumbing with Python/C](KLanclos_DigitalPlumbingWithPhython.pdf) (Kyle Lanclos, W. M. Keck Observatory) |
 | 10:20 | Coffee break |
-| 10:40 | Invited Talk 6: [Parallel Processing in Python](SKwok_ParallelProcessingInPython.pdf) (Shui Kwok, W. M. Keck Observatory) |
+| 10:40 | Invited Talk 6: [Parallel Processing in Python](SKwok_ParallelProcessingInPython.pdf) ([Exmaples](https://github.com/shkw0k/mkpy2017)) (Shui Kwok, W. M. Keck Observatory) |
 | 11:00 | Invited Talk 7: [Wrapping C Libraries with Cython](berthold_cython.pdf) (Ryan Berthold, EAO Observatory) |
 | 11:20 | Invited Talk 8:  [Building Applications for Jupyter Notebooks](https://gist.github.com/ejeschke/f6f6857b709a9f36d89ff3a5dbd31624) (Eric Jeschke, National Astronomical Observatory of Japan) |
 | 11:40 | Lightning Talks |
