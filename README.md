@@ -1,3 +1,5 @@
+![MkPy 2017 Group Photo](MkPy_group_photo.jpg)
+
 # MkPy:  Maunakea Python Workshop 2017
 
 The MkPy workshop has the goal of bringing together programmers and scientists from all of the Maunakea Observatories.  The general structure will be two days, each with a half day of talks and a half day of "unconference sessions".  We will have keynote speakers and a series of talks given by attendees.  The goal is to foster collaboration between scientists and programmers and across organizations.  The afternoon unconference sessions may include additional tutorials, lightning talks, discussion panels, and hack sessions.
