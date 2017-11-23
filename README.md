@@ -2,9 +2,11 @@
 
 # MkPy:  Maunakea Python Workshop 2017
 
-The MkPy workshop has the goal of bringing together programmers and scientists from all of the Maunakea Observatories.  The general structure will be two days, each with a half day of talks and a half day of "unconference sessions".  We will have keynote speakers and a series of talks given by attendees.  The goal is to foster collaboration between scientists and programmers and across organizations.  The afternoon unconference sessions may include additional tutorials, lightning talks, discussion panels, and hack sessions.
+The MkPy workshop has the goal of bringing together programmers and scientists from all of the Maunakea Observatories.  The general structure is two days, each with a half day of talks and a half day of "unconference sessions".  We have keynote speakers and a series of talks given by attendees.  The goal is to foster collaboration between scientists and programmers and across organizations.  The afternoon unconference sessions may include additional tutorials, lightning talks, discussion panels, and hack sessions.
 
-# MkPy Agenda
+There were also two Beginner's Workshop sessions in October.  The Jupyter Notebooks for those sessions are available on our [GitHub repo](https://github.com/MkPy/python-tutorial).
+
+## MkPy Agenda
 
 Nov 8-9 at the Subaru Base Facility Conference Suite (650 N. Aohoku Pl, Hilo, HI)
 
